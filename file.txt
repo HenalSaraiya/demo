@@ -1,4 +1,5 @@
 Add files to index before commit
+#adding current directory
 $ git add .
 #adding specific file
 $ git add dir/filename
